@@ -1,5 +1,5 @@
 # Ex. No: 10 – Packet Tracer: Subnetting Scenario
-# Date: ___________
+# Date: 26.02.2026
 ________________________________________<br>
 # Objective
 Design, configure, and verify an IPv4 subnetting scheme in Cisco Packet Tracer.<br>
@@ -113,7 +113,12 @@ ________________________________________<br>
 ________________________________________<br>
 # Output (Attach Screenshots)
 •	show ip interface brief on R1 and R2<br>
+<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/73476c9a-20c7-4c76-b4e5-f27e6eb6bdda" />
+
+
 •	Successful pings PC ↔ PC<br>
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/dbc60b8f-4253-4b76-ab0e-6f62a8196d4d" />
+
 ________________________________________<br>
 # Result
 The IPv4 subnetting scheme was successfully designed and implemented. Routers, switches, and PCs were configured with correct addressing. Connectivity within LANs and across WAN was verified.
